@@ -1,0 +1,33 @@
+.token-details {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+#token-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.details {
+    color: rgb(9, 9, 9);
+    padding: 40px; /* Réduit la marge intérieure */
+
+}
+#token-name{
+    font-size: 20px; /* Réduit la taille de la police */
+}
+#gravity{
+    font-size: 16px; /* Réduit la taille de la police */
+
+}
+p {
+    font-size: 16px; /* Réduit la taille de la police */
+    line-height: 0.6;
+}
