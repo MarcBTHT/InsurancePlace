@@ -1,0 +1,15 @@
+{
+  "name": "railgun-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/level-js": "^4.0.4",
+    "level-js": "^6.1.0",
+  }
+}
