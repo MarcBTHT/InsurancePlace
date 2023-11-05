@@ -15,6 +15,8 @@ InsurancePlace is a customer-centric solution that offers greater privacy, more 
 
   #### 1) Customer side:
 
+  ![image](https://github.com/mathisrgt/InsurancePlace/assets/116173196/c8f298dc-1542-46e0-bb55-4474d4e4bb9a)
+
 	Functionalities that our product offers to customers through the customer journey:
 		- Registration of the client
         - Verification of personal data by InsurancePlace
