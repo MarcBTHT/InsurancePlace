@@ -84,8 +84,11 @@ InsurancePlace is a customer-centric solution that offers greater privacy, more 
 
 
 ##### - BonusMalus Smart Contract:
-	- Functionality: 
-	- Process:
+	- Functionality:  This smart contract is designed to manage all the bonus-malus sytem for the insurance. It allows the insurance to mint SoulBoundToken, each representing a specific insurance event (Each Claim or Bonus). We can set attributes like gravity, accident type, responsibility, and date.
+	- Process: 
+		- We Grant the mint role for the insurrance.
+  		- The insurrance just have to enter the information and mint.
+  		- We have other function to store data in the SBT ...
 	
 
 
