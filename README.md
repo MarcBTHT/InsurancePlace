@@ -1,5 +1,6 @@
 # InsurancePlace
 InsurancePlace is a decentralized application that lets you take out a insurance policy without revealing any personal information about the customer. Developed during the KS DeVinci - Institut des Crypto-Actifs hackathon.
+https://near.org/d2eb98e7b30f1c1b836c7290b973db4cb8896717b9fcacc98d57c8e36d2b1c47/widget/Page1
 
 ## Problem:
 Nowadays, too many sensitive data is shared from customers to insurance companies, for an insurance that isn't very personalized for the customer. 
